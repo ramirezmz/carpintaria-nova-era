@@ -8,14 +8,13 @@ export const CardContent = styled.section`
    display: flex;
    flex-direction: column;
    align-items: center;
-   border-radius: 10px;
+   border-radius: 8px;
    margin: 2rem;
    img {
-      border-radius: 10px 0 0 0;
+      border-radius: 8px 8px 0 0;
       width: 12rem;
       height: 14rem;
    }
-
 `
 
 export const TitleCard = styled.section`
