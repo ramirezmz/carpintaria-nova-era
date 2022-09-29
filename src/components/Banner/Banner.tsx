@@ -2,7 +2,7 @@ import React from 'react'
 
 function Banner() {
    return (
-      <img src="/public/banner.svg" alt='banner carpintaria nova era'/>
+      <img src="/public/banner.png" alt='banner carpintaria nova era'/>
    )
 }
 
