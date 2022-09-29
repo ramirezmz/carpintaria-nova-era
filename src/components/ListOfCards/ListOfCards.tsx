@@ -1,10 +1,11 @@
 import React from 'react'
 import data from '../../data/services.json'
 import Card from '../Card/Card'
+import {Content} from './styled'
 
 function ListOfCards() {
    return (
-      <div>
+      <Content>
          {
             data.map(({image, name, id}) =>
                <Card 
@@ -13,7 +14,7 @@ function ListOfCards() {
                   key={id}
                />)
          }
-      </div>
+      </Content>
    )
 }
 
