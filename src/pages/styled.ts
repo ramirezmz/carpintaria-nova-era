@@ -15,7 +15,15 @@ export const Title = styled.h1`
 
 export const Paragraph = styled.p`
    padding: 0 13rem;
-   margin-top: 2rem;
+   margin: 3rem 0;
    line-height: 2rem;
    text-align: center;
+`
+
+export const ContentValore = styled.div`
+   padding: 2rem;
+   img {
+      padding: 1rem;
+      width: 19rem
+   }
 `
