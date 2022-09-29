@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const AboutContent = styled.section`
+export const Content = styled.section`
    display: flex;
    flex-direction: column;
    justify-content: center;
@@ -11,13 +11,14 @@ export const AboutContent = styled.section`
 
 export const Title = styled.h1`
    font-weight: 900;
+   background: none;
 `
 
 export const Paragraph = styled.p`
-   padding: 0 13rem;
    margin: 3rem 0;
    line-height: 2rem;
    text-align: center;
+   background: none;
 `
 
 export const ContentValore = styled.div`
@@ -25,5 +26,25 @@ export const ContentValore = styled.div`
    img {
       padding: 1rem;
       width: 19rem
+   }
+`
+
+export const ContentServices = styled.div`
+   background-color: #fff;
+   position: absolute;
+   width: 100vw;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+   h1 {
+      padding-top: 3.6rem;
+   }
+
+   span {
+      background: none;
+      color: #706F6F;
+      padding: 0.5rem 0;
    }
 `
