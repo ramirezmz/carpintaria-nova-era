@@ -31,7 +31,6 @@ export const ContentValore = styled.div`
 
 export const ContentServices = styled.div`
    background-color: #fff;
-   position: absolute;
    width: 100vw;
    display: flex;
    flex-direction: column;
