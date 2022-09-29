@@ -1,9 +1,14 @@
-import React, { useState } from 'react'
+import React from 'react'
+import Banner from './components/Banner/Banner'
+import Header from './components/Header/Header'
+import About from './pages/About'
 
 function App() {
    return (
       <div className="App">
-         heyy
+         <Header />
+         <Banner />
+         <About />
       </div>
    )
 }
