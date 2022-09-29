@@ -34,5 +34,11 @@
       "name": "Deck com teto",
       "image": "/public/services/deck-teto.jpeg",
       "description": "Lorem ipsum"
+   },
+   {
+      "id": "7",
+      "name": "Porta de banheiro",
+      "image": "/public/services/porta-banheiro.jpeg",
+      "description": "Lorem ipsum"
    }
 ]
