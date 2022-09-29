@@ -1,0 +1,38 @@
+[
+   {
+      "id": "1",
+      "name": "Carroceria",
+      "image": "/public/services/carroceria.jpeg",
+      "description": "Lorem ipsum"
+   },
+   {
+      "id": "2",
+      "name": "Deck Pergolado",
+      "image": "/public/services/deck-pergolado2.jpeg",
+      "description": "Lorem ipsum"
+   },
+   {
+      "id": "3",
+      "name": "Deck",
+      "image": "/public/services/deck.jpeg",
+      "description": "Lorem ipsum"
+   },
+   {
+      "id": "4",
+      "name": "Porta",
+      "image": "/public/services/porta.jpeg",
+      "description": "Lorem ipsum"
+   },
+   {
+      "id": "5",
+      "name": "Telhado",
+      "image": "/public/services/telhado.jpeg",
+      "description": "Lorem ipsum"
+   },
+   {
+      "id": "6",
+      "name": "Deck com teto",
+      "image": "/public/services/deck-teto.jpeg",
+      "description": "Lorem ipsum"
+   }
+]
