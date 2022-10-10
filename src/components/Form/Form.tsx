@@ -1,7 +1,7 @@
-import React from "react";
-import Button from "../Button/Button";
-import Field from "../Field/Field";
-import { Content } from "./styled";
+import React from 'react'
+import Button from '../Button/Button'
+import Field from '../Field/Field'
+import { Content } from './styled'
 
 function Form() {
    return (
@@ -15,7 +15,7 @@ function Form() {
             <Button>Enviar</Button>
          </form>
       </Content>
-   );
+   )
 }
 
-export default Form;
+export default Form
