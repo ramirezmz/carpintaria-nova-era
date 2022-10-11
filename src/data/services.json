@@ -2,43 +2,43 @@
    {
       "id": "1",
       "name": "Carroceria",
-      "image": "/public/services/carroceria.jpeg",
+      "image": "https://i.ibb.co/ygw3Dg4/carroceria.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "2",
       "name": "Deck Pergolado",
-      "image": "/public/services/deck-pergolado2.jpeg",
+      "image": "https://i.ibb.co/swZfLjP/deck-pergolado2.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "3",
       "name": "Deck",
-      "image": "/public/services/deck.jpeg",
+      "image": "https://i.ibb.co/5YSz3G6/deck.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "4",
       "name": "Porta",
-      "image": "/public/services/porta.jpeg",
+      "image": "https://i.ibb.co/whnDJ89/porta.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "5",
       "name": "Telhado",
-      "image": "/public/services/telhado.jpeg",
+      "image": "https://i.ibb.co/rvnGcLt/telhado.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "6",
       "name": "Deck com teto",
-      "image": "/public/services/deck-teto.jpeg",
+      "image": "https://i.ibb.co/M8ZNZKN/deck-teto.jpg",
       "description": "Lorem ipsum"
    },
    {
       "id": "7",
       "name": "Porta de banheiro",
-      "image": "/public/services/porta-banheiro.jpeg",
+      "image": "https://i.ibb.co/pKD8v1F/porta-banheiro.jpg",
       "description": "Lorem ipsum"
    }
 ]
