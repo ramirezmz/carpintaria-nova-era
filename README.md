@@ -1,8 +1,7 @@
-## [Carpintaria Nova Era](https://carpintaria-nova-era.vercel.app/)
-![logo](https://i.ibb.co/t4KZH3V/footer.png)
+[![logo](https://i.ibb.co/t4KZH3V/footer.png)](https://carpintaria-nova-era.vercel.app/)
 
 Esta é meu primer freelance, tive a oportunidade de captar o cliente, ver as necessidades dele e convertir a solução em um website.
-
+[Visita a página!](https://carpintaria-nova-era.vercel.app/)
 # How to start the project locally?
 
 1. Download the source code
