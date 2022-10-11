@@ -16,16 +16,20 @@ export const Title = styled.h1`
 
 export const Paragraph = styled.p`
    margin: 3rem 0;
+   max-width: 53rem;
    line-height: 2rem;
    text-align: center;
    background: none;
 `
 
 export const ContentValore = styled.div`
-   padding: 2rem;
-   img {
-      padding: 1rem;
-      width: 19rem
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 1.5rem;
+   @media only screen and (max-width: 830px) {
+      display: flex;
+      flex-direction: column;
    }
 `
 
