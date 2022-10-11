@@ -1,4 +1,5 @@
 ## [Carpintaria Nova Era](https://carpintaria-nova-era.vercel.app/)
+![logo](https://i.ibb.co/t4KZH3V/footer.png)
 
 Esta é meu primer freelance, tive a oportunidade de captar o cliente, ver as necessidades dele e convertir a solução em um website.
 
