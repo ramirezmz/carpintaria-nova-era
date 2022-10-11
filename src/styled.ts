@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import styled ,{ createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
 * {
@@ -12,4 +12,9 @@ export const GlobalStyle = createGlobalStyle`
 a {
    color: #fff;
 }
+`
+
+export const MainContent = styled.main`
+   min-width: 320px;
+   max-width: 1440px;
 `
